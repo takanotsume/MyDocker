@@ -1,6 +1,6 @@
 = Test it manually =
 
-Install Docker
+Install Docker (http://docs.docker.io/en/latest/installation/ubuntulinux/#ubuntu-raring-saucy)
 
     sudo apt-get install linux-image-extra-`uname -r`
     sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 36A1D7869245C8950F966E92D8576A8BA88D21E9
@@ -39,3 +39,6 @@ Load image from a tar
 
 * http://hotcashew.com/2013/07/lemp-stack-in-a-docker-io-container/
 * http://tech.paulcz.net/2013/09/creating-immutable-servers-with-chef-and-docker-dot-io.html
+* https://index.docker.io/u/paulczar/chef-client/
+
+* https://ochronus.com/docker-primer-django/
