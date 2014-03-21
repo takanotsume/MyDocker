@@ -1,6 +1,7 @@
 = Do it manually =
 
 All docker cli commands: http://docs.docker.io/en/latest/reference/commandline/cli/
+All docker images: https://index.docker.io/u/paulczar/chef-client/
 
 Run a command in a new container built from image
 
