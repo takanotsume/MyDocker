@@ -26,3 +26,7 @@ Load image from a tar
 
     sudo docker load < demo.tar
 
+= Tutorials =
+
+* http://hotcashew.com/2013/07/lemp-stack-in-a-docker-io-container/
+* http://tech.paulcz.net/2013/09/creating-immutable-servers-with-chef-and-docker-dot-io.html
